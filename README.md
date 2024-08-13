@@ -1,3 +1,3 @@
 # elm-park-crime-data
 
-Data was downloaded originaly from https://data.police.uk/data/
+Data was downloaded originally from https://data.police.uk/data/
